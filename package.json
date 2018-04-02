@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": { 
     "type": "git",
-    "url": "https://badboy@github.com/badboy/node-i3.git"
+    "url": "https://Joseph14078@github.com/Joseph14078/node-i3.git"
   },
   "description": "inter-process communication with i3, the improved tiling window manager",
   "keywords": ["ipc", "i3", "wm"],
